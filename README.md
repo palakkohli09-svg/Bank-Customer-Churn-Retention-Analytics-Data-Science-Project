@@ -60,7 +60,7 @@ The dashboard provides insights into:
 https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_churn_overview.png
 
 ### customer risk analysis
-![Customer Churn Overview](images/bank_customer_risk_analysis.png)
+https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_risk_analysis.png
 
 ### customer insights
 ![Customer Churn Overview](images/bank_customer_insights.png)
