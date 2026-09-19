@@ -68,6 +68,21 @@ https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data
 ### customer retention strategy
 https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_retention_strategy.png
 
+## DATASET
+The dataset used in this project is not included in the repository due to its large file size.
+
+## PROJECT STRUCTURE
+### NOTEBOOK - 
+
+
+### DASHBOARDS- 
+
+
+
+
+### DATA-
+
+
 ## KEY INSIGHTS
 - Customer characteristics can be used to identify patterns associated with churn.
 - Customer activity and product usage provide useful signals for churn analysis.
