@@ -63,7 +63,7 @@ https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data
 https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_risk_analysis.png
 
 ### customer insights
-![Customer Churn Overview](images/bank_customer_insights.png)
+https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_insights.png
 
 ### customer retention strategy
 ![Customer Churn Overview](images/bank_customer_retention_strategy.png)
