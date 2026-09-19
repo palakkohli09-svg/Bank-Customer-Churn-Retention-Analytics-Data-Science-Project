@@ -73,12 +73,16 @@ The dataset used in this project is not included in the repository due to its la
 
 ## PROJECT STRUCTURE
 ### NOTEBOOK - 
-
+https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_churn_project.ipynb
 
 ### DASHBOARDS- 
+PAGE 1 - https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_churn_overview.png
 
+PAGE 2 - https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_risk_analysis.png
 
+PAGE 3 - https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_insights.png
 
+PAGE 4 - https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_retention_strategy.png
 
 ### DATA-
 
