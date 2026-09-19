@@ -57,7 +57,7 @@ The dashboard provides insights into:
 
 ## DASHBOARD SCREENSHOTS
 ### customer churn overview
-"C:\Users\pk706\Downloads\bank_churn_overview.htm"
+https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_churn_overview.png
 
 ### customer risk analysis
 ![Customer Churn Overview](images/bank_customer_risk_analysis.png)
