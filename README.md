@@ -85,7 +85,7 @@ PAGE 3 - https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analy
 PAGE 4 - https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/bank_customer_retention_strategy.png
 
 ### DATA-
-
+https://github.com/palakkohli09-svg/Bank-Customer-Churn-Retention-Analytics-Data-Science-Project/blob/main/README.md
 
 ## KEY INSIGHTS
 - Customer characteristics can be used to identify patterns associated with churn.
